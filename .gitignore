@@ -3,7 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.vscode
+
 # C
+*.o
+*.d
+*.lib
 *.so
 *.exe
 
